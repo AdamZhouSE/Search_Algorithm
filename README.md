@@ -1,5 +1,5 @@
 # Search_Algorithm
-We have 8 problems here. Each of them requires implementing a search algorithm. 
+We have 7 problems here. Each of them requires implementing a search algorithm. 
 
 The problems are as follows:
 1. DFS-GSA
